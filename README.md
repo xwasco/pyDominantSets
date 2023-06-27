@@ -1,2 +1,2 @@
 # pyDominantSets
-Pytorch Implementation of Dominant Sets
+Python Implementation of Dominant Sets
